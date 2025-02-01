@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'ESTO ES UNA PRUEBA:',
+              'tengo hambre',
             ),
             Text(
               '$_counter',
